@@ -32,7 +32,7 @@
 
 - 💬 Ask me about **PHP or Python**
 
-- 📫 Feel free to reach me out **Frederik@emperium.tv**
+- 📫 Feel free to reach out to me **Frederik@emperium.tv**
 
 - 𝕏 You can also reach me on [twitter](https://twitter.com/NaCly_Dove) / [𝕏](https://twitter.com/NaCly_Dove).
 <!--Intro end-->
