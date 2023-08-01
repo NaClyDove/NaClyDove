@@ -26,19 +26,15 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **PHP, Python, HTML, CSS, Java, Javascript, SQL, Batch - and more!**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 📝 I am the CEO of EmperiumTV (esports based company)
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 💬 Ask me about **PHP or Python**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📫 Feel free to reach me out **Frederik@emperium.tv**
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
+- 𝕏 You can also reach me on twitter / [𝕏](https://twitter.com/NaCly_Dove).
 <!--Intro end-->
 
 
