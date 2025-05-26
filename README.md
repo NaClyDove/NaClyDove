@@ -21,8 +21,6 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **PHP, Python, HTML, CSS, Java, Javascript, SQL, Batch - and more!**
 
-- 📝 I am the CEO of EmperiumTV (esports based company)
-
 - 💬 Ask me about **PHP or Python**
 
 - 📫 Feel free to reach out to me **Frederik@emperium.tv**
