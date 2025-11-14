@@ -10,9 +10,9 @@
 
 <div align="center">
 
-  [![Email](https://img.shields.io/badge/Email-Frederik%40emperium.tv-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Frederik@emperium.tv)
+  [![Email](https://img.shields.io/badge/Email-frederik%40omika.ai-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frederik@omika.ai)
   [![Twitter](https://img.shields.io/badge/Twitter-@NaCly__Dove-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NaCly_Dove)
-  [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ZUchEjKJ)
+  [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nBxKkf7Zfp)
 
 </div>
 
