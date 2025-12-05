@@ -140,9 +140,6 @@ const frederik = {
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6584?style=for-the-badge)
-![Weaviate](https://img.shields.io/badge/Weaviate-00C853?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -165,8 +162,6 @@ const frederik = {
 ![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-8B5CF6?style=for-the-badge)
 ![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge)
-
-### TUI Frameworks
 ![Rich](https://img.shields.io/badge/Rich-000000?style=for-the-badge)
 ![Textual](https://img.shields.io/badge/Textual-1E1E1E?style=for-the-badge)
 
@@ -176,9 +171,7 @@ const frederik = {
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
 
-### APIs & Auth
-![REST](https://img.shields.io/badge/REST-009688?style=for-the-badge)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+### Auth
 ![OAuth2](https://img.shields.io/badge/OAuth2-000000?style=for-the-badge&logo=oauth&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
