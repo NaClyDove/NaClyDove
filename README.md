@@ -44,7 +44,7 @@ const frederik = {
         validation: ["Pydantic"]
     },
     infrastructure: {
-        compute: ["AWS", "Azure", "Vercel", "Cloudflare"],
+        compute: ["AWS", "GCP", "Azure", "Hetzner", "Vercel", "Cloudflare"],
         orchestration: ["Docker", "Kubernetes", "Celery"],
         databases: ["PostgreSQL", "MongoDB", "Redis", "Supabase"]
     },
@@ -152,7 +152,9 @@ const frederik = {
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Linode](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)
