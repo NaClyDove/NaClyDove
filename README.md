@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Frederik+Ferdinand+%F0%9F%91%8B;AI+Engineer+%7C+Full+Stack+Developer;Founder+%40+Omika+AI+%F0%9F%A4%96;Building+intelligent+systems%2C+one+agent+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Frederik+Ferdinand+%F0%9F%91%8B;AI+Engineer+%7C+CEO;Founder+%40+Omika+AI+%F0%9F%A4%96+%26+Ace+League+%F0%9F%8E%AE;Building+intelligent+systems%2C+one+agent+at+a+time" alt="Typing SVG" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Programming+isn't+about+what+you+know;It's+about+what+you+can+figure+out+%F0%9F%9A%80" alt="Subtitle" />
 </div>
@@ -22,37 +22,38 @@
 
 ```typescript
 const frederik = {
-    title: "AI Engineer & Founder @ Omika AI",
+    title: "AI Engineer & CEO",
     location: "Denmark 🇩🇰",
     currentFocus: "Multi-Agent Systems & Long-Running AI Agents",
-    company: "Omika AI - Building the future of AI solutions",
+    companies: {
+        "Omika AI": "Building the future of AI solutions",
+        "Ace League": "Esports company"
+    },
     expertise: [
         "AI/ML Engineering",
         "Multi-Agent Systems & Orchestration",
-        "Long-Running Agents & Context Management",
-        "LLM Integration & Fine-tuning",
-        "Full Stack Development",
-        "Security Research & CTFs"
+        "Long-Running Agents & State Management",
+        "RAG & Contextual Retrieval",
+        "Production AI Infrastructure"
     ],
     aiStack: {
-        frameworks: ["LangChain", "LangGraph", "AgentSDK", "OpenAI SDK", "Anthropic SDK"],
-        models: ["GPT-4", "Claude", "OpenRouter", "Custom Models"],
-        mlTools: ["TensorFlow", "PyTorch", "Scikit-learn", "Hugging Face"],
+        frameworks: ["LangChain", "LangGraph", "LlamaIndex", "OpenAI SDK", "Anthropic SDK"],
+        mlOps: ["Weights & Biases", "TensorFlow", "PyTorch", "Hugging Face"],
         vectorDBs: ["Pinecone", "Weaviate", "ChromaDB", "FAISS"],
-        graphDBs: ["Neo4j"]
+        graphDBs: ["Neo4j"],
+        validation: ["Pydantic"]
     },
-    traditional: {
-        languages: ["Python", "JavaScript", "TypeScript", "PHP", "Java"],
-        backend: ["Node.js", "FastAPI", "Django", "PHP"],
-        frontend: ["Next.js", "React", "HTML/CSS"],
-        databases: ["MongoDB", "MySQL", "Firebase", "PostgreSQL", "Neo4j"]
+    infrastructure: {
+        compute: ["AWS", "Azure", "Vercel", "Cloudflare"],
+        orchestration: ["Docker", "Kubernetes", "Celery"],
+        databases: ["PostgreSQL", "MongoDB", "Redis", "Supabase"]
     },
     askMeAbout: [
-        "Multi-Agent Systems",
+        "Multi-Agent Orchestration",
         "Long-Running Agents",
-        "LangGraph Workflows",
-        "RAG Systems",
-        "Graph-Based Context Management"
+        "LangGraph State Machines",
+        "Contextual Retrieval & RAG",
+        "Graph-Based Memory Systems"
     ],
     lifePhilosophy: "Teaching machines to think, one model at a time 🤖✨"
 };
@@ -186,58 +187,18 @@ const frederik = {
 
 <br/>
 
-## 🎯 What I'm Building at Omika AI
-
-<div align="center">
-
-```python
-class OmikaAI:
-    """
-    Building the next generation of AI solutions
-    """
-    def __init__(self):
-        self.mission = "Making AI accessible and practical for everyone"
-        self.projects = [
-            "🤖 Multi-agent orchestration systems",
-            "🧠 Advanced RAG pipelines with semantic search",
-            "⚡ Real-time AI-powered applications",
-            "🔧 Custom LLM integrations and fine-tuning",
-            "📊 Intelligent data analysis and automation"
-        ]
-
-    def current_focus(self):
-        return {
-            "research": "Agentic AI workflows and autonomous systems",
-            "development": "Production-ready AI solutions",
-            "innovation": "Pushing the boundaries of what AI can do"
-        }
-```
-
-</div>
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaClyDove&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A177F7&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF" alt="Contribution Graph" />
-</div>
-
-<br/>
-
 ## 💡 AI/ML Specializations
 
 <div align="center">
 
 | 🧠 Area | 🔧 Capabilities |
 |---------|----------------|
-| **Multi-Agent Systems** | LangGraph workflows, agent orchestration, inter-agent communication, long-running agents |
-| **Context Management** | Neo4j graph databases, stateful agents, persistent memory, conversation threading |
-| **RAG & Search** | Contextual retrieval, semantic search, document indexing, embeddings |
-| **LLM Integration** | OpenAI, Anthropic, OpenRouter, custom model deployment |
-| **ML Engineering** | Model training, fine-tuning, deployment, A/B testing |
-| **Production AI** | Scalable architectures, API design, monitoring, cost optimization |
-| **Security** | CTF competitions, penetration testing, secure architecture design |
+| **Multi-Agent Systems** | LangGraph state machines, agent orchestration, inter-agent communication, long-running autonomous agents |
+| **Context & Memory** | Neo4j graph databases, stateful checkpointing, persistent memory, conversation threading |
+| **RAG & Retrieval** | Contextual retrieval, LlamaIndex pipelines, semantic search, hybrid search, embeddings |
+| **LLM Integration** | OpenAI, Anthropic, tool calling, structured outputs, streaming, Pydantic validation |
+| **MLOps** | Weights & Biases tracking, model deployment, A/B testing, evaluation pipelines |
+| **Production Infrastructure** | AWS/Azure, Kubernetes, Celery workers, async architectures, cost optimization |
 
 </div>
 
