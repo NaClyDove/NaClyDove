@@ -65,21 +65,7 @@ const frederik = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.zohan.tech/api?username=NaClyDove&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=NaClyDove&theme=tokyonight&hide_border=true&background=0D1117&ring=A177F7&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=NaClyDove&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=NaClyDove&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A177F7&line=6C63FF&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NaClyDove&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.zohan.tech/api?username=NaClyDove&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats" />
 </div>
 
 <br/>
