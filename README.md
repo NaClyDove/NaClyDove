@@ -65,12 +65,12 @@ const frederik = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NaClyDove&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.zohan.tech/api?username=NaClyDove&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=NaClyDove&theme=tokyonight&hide_border=true&background=0D1117&ring=A177F7&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NaClyDove&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=NaClyDove&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=NaClyDove&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A177F7&line=6C63FF&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
@@ -104,12 +104,6 @@ const frederik = {
 ![Weaviate](https://img.shields.io/badge/Weaviate-00C853?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6584?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
-
-### AI Model Providers
-![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-8B5CF6?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
