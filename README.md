@@ -24,31 +24,35 @@
 const frederik = {
     title: "AI Engineer & Founder @ Omika AI",
     location: "Denmark 🇩🇰",
-    currentFocus: "AI/ML Engineering & Intelligent Agent Systems",
+    currentFocus: "Multi-Agent Systems & Long-Running AI Agents",
     company: "Omika AI - Building the future of AI solutions",
     expertise: [
         "AI/ML Engineering",
-        "Agentic Workflows & Multi-Agent Systems",
+        "Multi-Agent Systems & Orchestration",
+        "Long-Running Agents & Context Management",
         "LLM Integration & Fine-tuning",
-        "Full Stack Development"
+        "Full Stack Development",
+        "Security Research & CTFs"
     ],
     aiStack: {
-        frameworks: ["LangChain", "AgentSDK", "OpenAI SDK", "Anthropic SDK"],
+        frameworks: ["LangChain", "LangGraph", "AgentSDK", "OpenAI SDK", "Anthropic SDK"],
         models: ["GPT-4", "Claude", "OpenRouter", "Custom Models"],
         mlTools: ["TensorFlow", "PyTorch", "Scikit-learn", "Hugging Face"],
-        vectorDBs: ["Pinecone", "Weaviate", "ChromaDB", "FAISS"]
+        vectorDBs: ["Pinecone", "Weaviate", "ChromaDB", "FAISS"],
+        graphDBs: ["Neo4j"]
     },
     traditional: {
         languages: ["Python", "JavaScript", "TypeScript", "PHP", "Java"],
         backend: ["Node.js", "FastAPI", "Django", "PHP"],
         frontend: ["Next.js", "React", "HTML/CSS"],
-        databases: ["MongoDB", "MySQL", "Firebase", "PostgreSQL"]
+        databases: ["MongoDB", "MySQL", "Firebase", "PostgreSQL", "Neo4j"]
     },
     askMeAbout: [
-        "Building AI Agents",
+        "Multi-Agent Systems",
+        "Long-Running Agents",
+        "LangGraph Workflows",
         "RAG Systems",
-        "LLM Orchestration",
-        "ML Model Deployment"
+        "Graph-Based Context Management"
     ],
     lifePhilosophy: "Teaching machines to think, one model at a time 🤖✨"
 };
@@ -62,7 +66,7 @@ const frederik = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NaClyDove&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NaClyDove&theme=tokyonight&hide_border=true&background=0D1117&ring=A177F7&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=NaClyDove&theme=tokyonight&hide_border=true&background=0D1117&ring=A177F7&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -87,6 +91,7 @@ const frederik = {
 
 ### AI/ML Frameworks & Tools
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/🔄_LangGraph-1C3C3C?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -130,13 +135,15 @@ const frederik = {
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -202,11 +209,13 @@ class OmikaAI:
 
 | 🧠 Area | 🔧 Capabilities |
 |---------|----------------|
-| **Agentic Systems** | Multi-agent workflows, autonomous decision making, agent orchestration |
+| **Multi-Agent Systems** | LangGraph workflows, agent orchestration, inter-agent communication, long-running agents |
+| **Context Management** | Neo4j graph databases, stateful agents, persistent memory, conversation threading |
 | **RAG & Search** | Vector databases, semantic search, document retrieval, embeddings |
 | **LLM Integration** | OpenAI, Anthropic, OpenRouter, custom model deployment |
 | **ML Engineering** | Model training, fine-tuning, deployment, A/B testing |
 | **Production AI** | Scalable architectures, API design, monitoring, cost optimization |
+| **Security** | CTF competitions, penetration testing, secure architecture design |
 
 </div>
 
