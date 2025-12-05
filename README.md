@@ -65,12 +65,12 @@ const frederik = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=NaClyDove&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NaClyDove&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&icon_color=6C63FF&text_color=C9D1D9" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=NaClyDove&theme=tokyonight&hide_border=true&background=0D1117&ring=A177F7&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaClyDove&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NaClyDove&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A177F7&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=NaClyDove&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A177F7&line=6C63FF&point=FFFFFF" alt="Contribution Graph" />
 </div>
 
@@ -123,8 +123,20 @@ const frederik = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Skript](https://img.shields.io/badge/Skript-E67E22?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend Frameworks
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -137,13 +149,14 @@ const frederik = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6584?style=for-the-badge)
+![Weaviate](https://img.shields.io/badge/Weaviate-00C853?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -152,7 +165,12 @@ const frederik = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### AI-Powered Dev Tools
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge)
+![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-8B5CF6?style=for-the-badge)
 
 </div>
 
@@ -211,7 +229,7 @@ class OmikaAI:
 |---------|----------------|
 | **Multi-Agent Systems** | LangGraph workflows, agent orchestration, inter-agent communication, long-running agents |
 | **Context Management** | Neo4j graph databases, stateful agents, persistent memory, conversation threading |
-| **RAG & Search** | Vector databases, semantic search, document retrieval, embeddings |
+| **RAG & Search** | Contextual retrieval, semantic search, document indexing, embeddings |
 | **LLM Integration** | OpenAI, Anthropic, OpenRouter, custom model deployment |
 | **ML Engineering** | Model training, fine-tuning, deployment, A/B testing |
 | **Production AI** | Scalable architectures, API design, monitoring, cost optimization |
