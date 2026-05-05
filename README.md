@@ -88,8 +88,8 @@ const frederik = {
 <div align="center">
 
   <a href="https://github.com/NaClyDove">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NaClyDove&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaClyDove&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NaClyDove&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NaClyDove&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 
   <br/>
